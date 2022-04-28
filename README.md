@@ -1,6 +1,6 @@
 # Hello 👋, I’m Carlos Chao
 
-
+<img width="100%" src="./header.svg"/>
 
 I love programming, and I'm always on the lookout for new challenges.
 
